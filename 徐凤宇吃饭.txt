@@ -1,0 +1,4 @@
+firewall-cmd --permanent --add-rich-rule='rule family=ipv4 source address="51.255.171.23" drop'
+firewall-cmd --permanent --add-rich-rule='rule family=ipv4 source address="185.106.94.146" drop'
+firewall-cmd --permanent --add-rich-rule='rule family=ipv4 source address="45.142.122.11" drop'
+firewall-cmd --permanent --add-rich-rule='rule family=ipv4 source address=" 217.182.205.238" drop'
